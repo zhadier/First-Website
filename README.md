@@ -1,2 +1,2 @@
 # My first ever website
-Check it out at https://zhadier.github.io/CV/
+Check it out at https://zhadier.github.io/First-Website/
