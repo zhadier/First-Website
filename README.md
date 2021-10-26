@@ -1,2 +1,2 @@
 # My first ever website
-Check it out at https://zhadier.github.io/First-Website/
+Pure html website for practice https://zhadier.github.io/First-Website/
